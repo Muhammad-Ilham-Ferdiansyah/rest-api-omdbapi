@@ -31,4 +31,5 @@ You're sections headers will be used to reference location of destination.
 
 ## Developer
 
-- Instagram (https://instagram.com/hmfrdnsyh_)
+- <a href="https://www.instagram.com/hmfrdnsyh_">Instagram</a>
+- <a href="https://www.twitter.com/ISupermahL">Twitter</a>
