@@ -1,6 +1,6 @@
-# Academic Data App
+# Rest API using JavaScript for Data Films
 
-> Group Task for Mobile Programming 
+> Public API ombdapi.com
 
 ---
 
@@ -9,7 +9,6 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [Activity](#activity)
 - [Technology](#technologies)
 - [Developer](#developer)
 
@@ -17,33 +16,19 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-- Minimum 4 Relation Tables
-- Can CRUD for each Tables
-- Use RecycleView/ListView for data view
-- Menu View for managing each Tables
-- Login and Register Using SharedPreferences
-- Make Report Tutorial Application Detail
-
-
-## Activity
-
-- MainActivity
-- LoginActivity
+- You can search Movie Title and get the Film
+- You can see detail film which was searched
 
 #### Technologies
 
-- Android Studio
-- Java 17.1
-- jdk 17
+- Visual Studio Code
+- JavaScript
+- Ajax
 
-[Back To The Top](#academic-data-app)
+[Back To The Top](#rest-api-using-javascript-for-data-films)
 
 ---
 
 ## Developer
 
-- M. Ilham
-- Muhammad Raihan Nur Azmii
-- Aldo Dwie Rizky
-- Raihan Malikul Mulki
-- Dedi Hidayat Siregar
+- Instagram (https://instagram.com/hmfrdnsyh_)
